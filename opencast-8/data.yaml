@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/opencast-8/train/images
+val: /content/opencast-8/valid/images
+test: /content/opencast-8/test/images
 
 nc: 4
 names: ['buldozerpayloadergrader', 'dump_truck', 'excavator', 'light_vehicle']
